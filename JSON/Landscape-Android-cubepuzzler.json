@@ -85,27 +85,6 @@
   },
 
   {
-   "m_Name":"Cube Puzzler",
-    
-   "m_Descirption":"",
-    
-   "m_AndroidUrl":"",
-    
-   "m_IOSUrl":"",
-    
-   "m_PackageID":"",
-    
-   "m_ImageUrls": [
-                    "",
-                    "",
-                  ],
-    
-   "m_Probability":{"m_ChanceWeight":600.0},
-    
-   "m_ColorTheme":"#FF0000"
-  },
-
-  {
    "m_Name":"Risky Ping Pong",
     
    "m_Descirption":"",
