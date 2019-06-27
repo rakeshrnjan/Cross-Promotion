@@ -2,24 +2,6 @@
   
   {
     
-   "m_Name":"Chase Circuit",
-    
-   "m_Descirption":"",
-    
-   "m_AndroidUrl":"",
-    
-   "m_IOSUrl":"https://apps.apple.com/app/chase-circuit-endless-racer/id1467676854",
-    
-   "m_PackageID":"",
-    
-   "m_ImageUrls": [
-                    "https://raw.githubusercontent.com/rakeshrnjan/Cross-Promotion/master/Images/chasecircuit.png",
-                  ],
-    
-   "m_Probability":{"m_ChanceWeight":600.0},
-    
-   "m_ColorTheme":"#FF0000",
-    
    "m_PlayerPrefs":"5",
     
   },
